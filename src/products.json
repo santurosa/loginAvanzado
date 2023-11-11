@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Producto de Ejemplo",
+    "description": "Este es un producto de ejemplo para probar el código.",
+    "code": "PROD123",
+    "price": 19.99,
+    "status": true,
+    "stock": 436450,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ],
+    "id": 1
+  },
+  {
+    "title": "Producto Modificado",
+    "description": "Este es un producto modificado para probar el código.",
+    "code": "MOD456",
+    "price": 29.99,
+    "status": false,
+    "stock": 25,
+    "category": "Ropa",
+    "thumbnails": [
+      "ruta/imagen3.jpg",
+      "ruta/imagen4.jpg"
+    ],
+    "id": 2
+  },
+  {
+    "title": "Producto de Ejemplo",
+    "description": "Este es un producto de ejemplo para probar el código.",
+    "code": "PROD123",
+    "price": 19.99,
+    "status": true,
+    "stock": 436450,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ],
+    "id": 3
+  },
+  {
+    "title": "Producto de Ejemplo",
+    "description": "Este es un producto de ejemplo para probar el código.",
+    "code": "PROD123",
+    "price": 19.99,
+    "status": true,
+    "stock": 436450,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ],
+    "id": 4
+  },
+  {
+    "title": "Producto de Ejemplo",
+    "description": "Este es un producto de ejemplo para probar el código.",
+    "code": "PROD123",
+    "price": 19.99,
+    "stock": 436450,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ],
+    "id": 5,
+    "status": true
+  },
+  {
+    "title": "Producto de Ejemplo",
+    "description": "Este es un producto de ejemplo para probar el código.",
+    "code": "PROD123",
+    "price": 19.99,
+    "stock": 436450,
+    "category": "Electrónica",
+    "thumbnails": [
+      "ruta/imagen1.jpg",
+      "ruta/imagen2.jpg"
+    ],
+    "id": 6,
+    "status": true
+  }
+]
